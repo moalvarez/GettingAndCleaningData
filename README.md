@@ -31,6 +31,8 @@ each variable by activity/subject.
 Finally, update the column names of the tidy_set to denote that they contain the mean of 
 the original measurements (by activity/subject). 
 
+I have documented the steps in the code for clarity.
+
 The script file is run_analysis.R.
 The file containing the tidy_data frame is tidy_data.txt.
 
