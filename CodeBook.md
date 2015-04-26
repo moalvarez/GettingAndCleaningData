@@ -32,8 +32,12 @@ subject:  number from 1-30 identifying the subject performing the activity
 
 The rest of the columns indicate the mean of the mean() and std() columnms of the original
 data set, summarized by activity and user.  Those original columns are described in the 
-features_info.txt file contained in the original data set zip file. Key information from 
-that file is shown below:
+features_info.txt file contained in the original data set zip file. The subset of variables (features) that were estimated in the original set and used for this exercise were: 
+
+mean(): Mean value
+std(): Standard deviation
+
+Key information about the various estimatimations extracted from the features_info.txt is shown below:
 
 The features selected for this database come from the accelerometer and gyroscope 3-axial 
 raw signals tAcc-XYZ and tGyro-XYZ. These time domain signals (prefix 't' to denote time) 
