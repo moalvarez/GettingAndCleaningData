@@ -35,6 +35,7 @@ data set, summarized by activity and user.  Those original columns are described
 features_info.txt file contained in the original data set zip file. The subset of variables (features) that were estimated in the original set and used for this exercise were: 
 
 mean(): Mean value
+
 std(): Standard deviation
 
 Key information about the various estimatimations extracted from the features_info.txt is shown below:
