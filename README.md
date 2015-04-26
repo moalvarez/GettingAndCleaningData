@@ -32,3 +32,7 @@ Finally, update the column names of the tidy_set to denote that they contain the
 the original measurements (by activity/subject). 
 
 The script file is run_analysis.R.
+The file containing the tidy_data frame is tidy_data.txt.
+
+The file containing the tidy_data frame can be read in to R with:
+data <- read.table(<file-path>, header = TRUE)
